@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sekretariat szkolny", "sekretariat szkolny\sekretariat szkolny.csproj", "{3FF9E2FF-56F7-4EE4-B2D3-CC216E691EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF9E2FF-56F7-4EE4-B2D3-CC216E691EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF9E2FF-56F7-4EE4-B2D3-CC216E691EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF9E2FF-56F7-4EE4-B2D3-CC216E691EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF9E2FF-56F7-4EE4-B2D3-CC216E691EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E2D0E82-42C5-438A-895E-9ECEC5544290}
+	EndGlobalSection
+EndGlobal
